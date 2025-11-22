@@ -48,4 +48,4 @@ Final Output Fully working Streamlit dashboard
 
 Supports both simple and complex SQL queries
 
-Connected end‑to‑end: Dataset → Cleaning → MySQL → Python → Streamlit
+Connected end‑to‑end: Dataset → Cleaning → MySQL → Python → Streamlit 
